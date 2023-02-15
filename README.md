@@ -1,4 +1,4 @@
-# phisics-animation
+# physics-animation
 
 wh1:
   - Код построения векторных полей находтся в mainwindow.cpp
